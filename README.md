@@ -6,7 +6,7 @@
 
 🔍 On the lookout for exciting opportunities where I can contribute, learn, and grow. Let's connect to explore how we can drive forward together! 
 
-✉️ Feel free to reach out: pancani.d@northeastern.edu | 🌐 Connect with me on [LinkedIn]([YourLinkedInProfileLink](https://www.linkedin.com/in/dhwanil-panchani-a81555215/))
+✉️ Feel free to reach out: pancani.d@northeastern.edu | 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/dhwanil-panchani-a81555215)]
 
 📚 **Skills:** Java | Python | C# | C++ | JavaScript | Spring Boot | .NET Core | Azure | AWS | Git | Data Science | Machine Learning
 
