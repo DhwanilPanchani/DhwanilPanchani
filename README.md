@@ -30,6 +30,6 @@ Here’s my state-of-the-art toolkit, honed through academic rigor and real-worl
 
 As I gear up for internships and co-op roles, I’m excited to contribute, learn, and grow in a fast-paced, innovative environment. Let’s connect and explore how we can build a brighter, tech-driven future together!
 
-📧 Reach Out: pancani.d@northeastern.edu
-🌐 LinkedIn: linkedin.com/in/dhwanil-panchani
+📧 Reach Out: panchani.d@northeastern.edu
+🌐 LinkedIn:  https://www.linkedin.com/in/dhwanilpanchani/
 💡 Portfolio: https://dhwanilpanchani.github.io/Portfolio-Website/
