@@ -1,15 +1,35 @@
-🚀 Hey there! I'm Dhwanil Panchani, a budding software developer and data science enthusiast currently navigating the realms of Information Systems at Northeastern University, Boston 🎓. With a heart in coding and a mind in innovation, I'm on a mission to transform challenges into opportunities using my toolkit of Java, Python, C#, and more! 💻🔧
+🚀 Hey there! I’m Dhwanil Panchani
 
-🌱 Graduating in May 2025, my journey from a Bachelor of Engineering in Computer Engineering 🏗️ to an MSIS grad student has been fueled by curiosity and the drive to make an impact. With hands-on experience in Java development and data science from internships that put me at the crossroads of teamwork and technology, I'm all geared up for diving into internships and co-op roles that promise growth and learning.
+I’m a passionate software developer and AI enthusiast, navigating the exciting crossroads of Information Systems at Northeastern University, Boston 🎓. With a heart dedicated to innovation and a mind geared for problem-solving, I’m on a mission to shape the future of technology using cutting-edge tools and frameworks. 💻✨
 
-💼 From designing dynamic Java applications at TechVizor to unlocking insights with machine learning at BrainyBeam Technologies, I've embraced every opportunity to grow. My portfolio spans innovative projects like enhancing Walmart's sales forecasting and crafting a secure, full-stack Hotel Management System that speaks volumes of my journey so far.
+🌟 A Glimpse Into My Journey
+	•	📅 Graduating May 2025: A relentless pursuit of growth has led me from a Bachelor’s in Computer Engineering 🏗️ to mastering Information Systems, where I’ve honed the skills to bridge the gap between tech and business.
+	•	💼 Professional Experience:
+	•	TechVizor: Delivered scalable Java-based applications to enhance operational efficiency.
+	•	BrainyBeam Technologies: Leveraged machine learning for actionable insights, proving the power of AI in decision-making.
 
-🔍 On the lookout for exciting opportunities where I can contribute, learn, and grow. Let's connect to explore how we can drive forward together! 
+💻 Skills That Shape My Craft
 
-✉️ Feel free to reach out: pancani.d@northeastern.edu | 🌐 Connect with me on [www.linkedin.com/in/dhwanil-panchani-a81555215](www.linkedin.com/in/dhwanil-panchani-a81555215)
+Here’s my state-of-the-art toolkit, honed through academic rigor and real-world experience:
+	•	Programming: Java | Python | TypeScript | C# | JavaScript | Go
+	•	Web Development: React.js | Next.js | Angular | Node.js | Flask | Express.js
+	•	Data & Cloud: SQL | MongoDB | GraphQL | Firebase | AWS | Azure | Google Cloud
+	•	Frameworks & Tools: Spring Boot | .NET Core | Material UI | Tailwind CSS | Docker | Kubernetes
+	•	AI/ML: TensorFlow | PyTorch | Keras | Hugging Face | Transformers
+	•	Version Control: Git | GitHub | GitLab | Bitbucket
+	•	Project Management: Agile | Jira | Trello
 
-📚 **Skills:** Java | Python | C# | C++ | JavaScript | Spring Boot | .NET Core | Azure | AWS | Git | Data Science | Machine Learning
+🌟 Highlights
+	•	🌐 Projects:
+	•	Walmart Sales Forecasting: Improved predictive accuracy through advanced ML models.
+	•	Secure Hotel Management System: Built a robust, full-stack solution with end-to-end encryption and role-based access.
+	•	Generative AI Projects: Innovating with DenseNet and LSTMs for image captioning systems.
+	•	🏆 Achievements: Published insightful content on GitConnected, Analytics Vidhya, and Quick Code, sparking discussions across the tech community.
 
-🏆 **Achievements:** Thought leader with impactful contributions on GitConnected, Analytics Vidhya, and Quick Code. 
+🔍 Seeking Opportunities
 
-Let's innovate, collaborate, and create impact, one code line at a time! 🚀🌟
+As I gear up for internships and co-op roles, I’m excited to contribute, learn, and grow in a fast-paced, innovative environment. Let’s connect and explore how we can build a brighter, tech-driven future together!
+
+📧 Reach Out: pancani.d@northeastern.edu
+🌐 LinkedIn: linkedin.com/in/dhwanil-panchani
+💡 Portfolio: https://dhwanilpanchani.github.io/Portfolio-Website/
