@@ -1,35 +1,64 @@
-🚀 Hey there! I’m Dhwanil Panchani
+<h1 align="center">🚀 Hey there! I’m Dhwanil Panchani</h1>
 
-I’m a passionate software developer and AI enthusiast, navigating the exciting crossroads of Information Systems at Northeastern University, Boston 🎓. With a heart dedicated to innovation and a mind geared for problem-solving, I’m on a mission to shape the future of technology using cutting-edge tools and frameworks. 💻✨
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DhwanilPanchani&show_icons=true&theme=radical" alt="GitHub Stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhwanilPanchani&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
 
-🌟 A Glimpse Into My Journey
-	•	📅 Graduating May 2025: A relentless pursuit of growth has led me from a Bachelor’s in Computer Engineering 🏗️ to mastering Information Systems, where I’ve honed the skills to bridge the gap between tech and business.
-	•	💼 Professional Experience:
-	•	TechVizor: Delivered scalable Java-based applications to enhance operational efficiency.
-	•	BrainyBeam Technologies: Leveraged machine learning for actionable insights, proving the power of AI in decision-making.
+---
 
-💻 Skills That Shape My Craft
+## 🌟 About Me  
+🎓 I’m a passionate **Software Developer** and **AI Enthusiast**, currently pursuing **Master’s in Information Systems** at **Northeastern University, Boston**.  
+💻 With a heart dedicated to innovation and a mind geared for problem-solving, I aim to shape the future of technology using cutting-edge tools and frameworks.
 
-Here’s my state-of-the-art toolkit, honed through academic rigor and real-world experience:
-	•	Programming: Java | Python | TypeScript | C# | JavaScript | Go
-	•	Web Development: React.js | Next.js | Angular | Node.js | Flask | Express.js
-	•	Data & Cloud: SQL | MongoDB | GraphQL | Firebase | AWS | Azure | Google Cloud
-	•	Frameworks & Tools: Spring Boot | .NET Core | Material UI | Tailwind CSS | Docker | Kubernetes
-	•	AI/ML: TensorFlow | PyTorch | Keras | Hugging Face | Transformers
-	•	Version Control: Git | GitHub | GitLab | Bitbucket
-	•	Project Management: Agile | Jira | Trello
+---
 
-🌟 Highlights
-	•	🌐 Projects:
-	•	Walmart Sales Forecasting: Improved predictive accuracy through advanced ML models.
-	•	Secure Hotel Management System: Built a robust, full-stack solution with end-to-end encryption and role-based access.
-	•	Generative AI Projects: Innovating with DenseNet and LSTMs for image captioning systems.
-	•	🏆 Achievements: Published insightful content on GitConnected, Analytics Vidhya, and Quick Code, sparking discussions across the tech community.
+## 🛠️ Technical Skills  
 
-🔍 Seeking Opportunities
+<table>
+  <tr>
+    <td>💻 <b>Programming Languages</b></td>
+    <td>Python, Java, C++, C#, R, TypeScript, SQL</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Web Development</b></td>
+    <td>React.js, Angular, Next.js, Vue.js, Node.js, Flask, Express.js, Django</td>
+  </tr>
+  <tr>
+    <td>📊 <b>Data & Cloud</b></td>
+    <td>SQL, MongoDB, GraphQL, Firebase, AWS, Azure, Google Cloud</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Frameworks & Tools</b></td>
+    <td>Spring Boot, .NET Core, Material UI, Tailwind CSS, Docker, Kubernetes</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>AI/ML</b></td>
+    <td>TensorFlow, PyTorch, Keras, Hugging Face, Transformers</td>
+  </tr>
+</table>
 
-As I gear up for internships and co-op roles, I’m excited to contribute, learn, and grow in a fast-paced, innovative environment. Let’s connect and explore how we can build a brighter, tech-driven future together!
+---
 
-📧 Reach Out: panchani.d@northeastern.edu
-🌐 LinkedIn:  https://www.linkedin.com/in/dhwanilpanchani/
-💡 Portfolio: https://dhwanilpanchani.github.io/Portfolio-Website/
+## 🚀 Highlights  
+
+### Projects  
+- **Generative AI Image Captioning**: Built models using DenseNet, LSTMs, and GRUs to generate captions.  
+- **Walmart Sales Forecasting**: Enhanced predictive accuracy with advanced ML techniques.  
+- **Secure Hotel Management System**: A full-stack application featuring encryption and role-based access.  
+
+### Languages I’m Fluent In  
+- **As per my resume**: Python, Java, C++, C#, R, SQL, TypeScript  
+
+---
+
+## 🔍 Seeking Opportunities  
+
+I’m actively looking for **internship** and **co-op** roles where I can contribute, learn, and grow. Let’s connect and shape the future of technology together!  
+
+<p align="center">
+    <a href="mailto:panchani.d@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/dhwanilpanchani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://dhwanilpanchani.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
