@@ -1,16 +1,19 @@
 <h1 align="center">🚀 Hey there! I’m Dhwanil Panchani</h1>
 
+---
+
+## 🌟 About Me  
+🎓 I’m a passionate **Software Developer** and **AI Enthusiast**, currently pursuing **Master’s in Information Systems** at **Northeastern University, Boston**.  
+💻 With a heart dedicated to innovation and a mind geared for problem-solving, I aim to shape the future of technology using cutting-edge tools and frameworks.
+
+---
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DhwanilPanchani&show_icons=true&theme=radical" alt="GitHub Stats">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhwanilPanchani&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
 
----
-
-## 🌟 About Me  
-🎓 I’m a passionate **Software Developer** and **AI Enthusiast**, currently pursuing **Master’s in Information Systems** at **Northeastern University, Boston**.  
-💻 With a heart dedicated to innovation and a mind geared for problem-solving, I aim to shape the future of technology using cutting-edge tools and frameworks.
 
 ---
 
@@ -62,3 +65,4 @@ I’m actively looking for **internship** and **co-op** roles where I can contri
     <a href="https://linkedin.com/in/dhwanilpanchani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://dhwanilpanchani.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
