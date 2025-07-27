@@ -187,7 +187,7 @@ timeline
   <a href="https://linkedin.com/in/dhwanilpanchani">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dhwanilpanchani.github.io/Portfolio-Website/">
+  <a href="https://dhwanilpanchani.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://github.com/DhwanilPanchani">
