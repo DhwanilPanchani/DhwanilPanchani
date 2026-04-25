@@ -23,7 +23,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 - 🎓 **MS in Information Systems** @ Northeastern University, Boston
-- 💼 Former **Software Engineer** with 2+ years building scalable solutions
+- 💼 Former **Software Engineer** with 4 years building scalable solutions
 - 🔭 Currently exploring **Generative AI**, **Cloud Architecture**, and **Distributed Systems**
 - 🌱 Learning **Kubernetes**, **System Design**, and **Advanced ML/AI**
 - 💡 Passionate about creating impactful solutions that serve **100K+ users**
